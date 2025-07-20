@@ -12,7 +12,7 @@ data.reset_index(inplace=True)
 if data.isnull().values.any():
     data.fillna(method='ffill', inplace=True)  
 data['Date'] = data['Date'].dt.strftime('%Y-%m-%d')
-data.columns = ['Date', 'Adj Close', 'Close', 'High', 'Low', 'Open', 'Volume']
+data.columns = ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
 
 
 #Nifty50 data
