@@ -29,8 +29,3 @@ Scikit-learn (for data scaling)
 --------------------------------------------------------------
 
 
-<img width="500" height="1100" alt="Screenshot 2025-07-21 012251" src="https://github.com/user-attachments/assets/22e61009-0ed3-4255-8145-b673ed7a7cfb" />
-
-<img width="500" height="1100" alt="Screenshot 2025-07-21 012300" src="https://github.com/user-attachments/assets/59ba9861-7fe5-4ed7-a596-db10c6693de4" />
-
-<img width="500" height="1100" alt="image" src="https://github.com/user-attachments/assets/e0b9299e-d59d-4b74-a675-951a8e02715f" />
